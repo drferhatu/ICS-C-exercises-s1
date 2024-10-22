@@ -1,7 +1,6 @@
 # ICS-C-exercises-s1
-# C Programming Exercises for First Grade Students
 
-## Student Exercises
+# C Programming Exercises
 
 ### Exercise 1: The Number Guessing Game
 Write a program that asks the user to guess a number between 1 and 5. Tell them if they got it right or wrong!
